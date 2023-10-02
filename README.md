@@ -8,7 +8,7 @@ Just a **JavaScript** lover with a focus on creativity and results, always seeki
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsgdsr&layout=compact&theme=omni)
 
-## My top projects and contributions 👇🏽
+## My WIP projects and contributions 👇🏽
 
 <!--
 **DSGDSR/dsgdsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
